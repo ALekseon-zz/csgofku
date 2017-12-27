@@ -1,0 +1,35 @@
+body
+{
+	/*background: black;
+	background-image: url(fon.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	background-attachment: fixed;*/
+}
+table,td{
+	border: 1px solid black;
+	padding : 0;
+}
+table{
+	border-spacing: 0;
+	border-collapse: collapse;
+}
+#main{
+	width: 100%;
+	margin: 0 auto;
+}
+#header{
+	height: 130px;
+}
+#left{
+	height:500px;
+	width: 25%;
+}
+#right{
+	height: 500px;
+	width :20%;
+}
+#menu{
+	height:100%;
+}
