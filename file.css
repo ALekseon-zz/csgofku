@@ -22,15 +22,28 @@ table{
 	margin: 0 auto;
 }
 #header{
-	height: 130px;
+	height: 150px;
+	background:url(topp.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: cover;
+
 }
-#left{
-	height:500px;
-	width: 25%;
+#left {
+    height: 500px;
+    width: 15%;
+    background-image: url(left.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
 }
-#right{
-	height: 500px;
-	width :20%;
+#right {
+    height: 500px;
+    width: 15%;
+    background-image: url(left.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
 }
 #menu{
 	height:100%;
