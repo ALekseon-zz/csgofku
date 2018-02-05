@@ -9,7 +9,7 @@ body
 }
 table,td{
 	
-	border: 1px solid red;
+	border: 1px solid brown;
 	padding : 0;
 	
 }
@@ -22,28 +22,27 @@ table{
 	margin: 0 auto;
 }
 #header{
-	height: 150px;
-	background:url(topp.jpg);
+	height: 200px;
+	background:url(top.jpeg);
 	background-repeat: no-repeat;
-	background-position: center top;
-	background-size: cover;
+	background-position: center center;
+	background-size: 100% 100%;
 
 }
 #left {
-    height: 500px;
+    height: 512px;
     width: 15%;
-    background-image: url(left.jpg);
-    background-position: center top;
+    background-image: url(left.jpeg);
+    background-position: center center;
     background-repeat: no-repeat;
-    background-size: 100% 500px;
+    background-size: 100% 100%;
 }
 #right {
-    height: 500px;
     width: 15%;
-    background-image: url(left.jpg);
-    background-position: center top;
+    background-image: url(left.jpeg);
+    background-position: center center;
     background-repeat: no-repeat;
-    background-size: 100% 500px;
+    background-size: 100% 100%;
 }
 #menu{
 	height:100%;
